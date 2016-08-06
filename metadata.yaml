@@ -1,0 +1,32 @@
+_repo: A-Child-World_9651
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riley, James Whitcomb
+    aliases:
+    - Johnson, Benj. F. of Boone
+    - Johnson, B. F.
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '356'
+    url: http://www.gutenberg.org/2009/agents/356
+    wikipedia: http://en.wikipedia.org/wiki/James_Whitcomb_Riley
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Storytelling -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcc 'PS'
+- GITenberg
+title: A Child-World
+url: http://www.gutenberg.org/ebooks/9651
